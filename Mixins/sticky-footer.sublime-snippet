@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sticky-footer(${1:\$footer-height}, ${2:[\$root-selector]}, ${3:[\$root-footer-selector]}, ${4:[\$footer-selector]})
+]]></content>
+	<tabTrigger>sticky-footer</tabTrigger>
+	<description>CompassMixin - sticky-footer()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

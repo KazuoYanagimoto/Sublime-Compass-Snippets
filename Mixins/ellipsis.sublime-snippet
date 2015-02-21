@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+ellipsis(${1:[\$no-wrap]})
+]]></content>
+	<tabTrigger>ellipsis</tabTrigger>
+	<description>CompassMixin - ellipsis()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

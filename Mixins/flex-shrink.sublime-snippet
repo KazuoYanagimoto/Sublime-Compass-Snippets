@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-shrink(${1:\$flex-shrink})
+]]></content>
+	<tabTrigger>flex-shrink</tabTrigger>
+	<description>CompassMixin - flex-shrink()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

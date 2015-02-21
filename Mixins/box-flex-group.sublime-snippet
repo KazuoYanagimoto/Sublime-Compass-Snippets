@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-flex-group(${1:[\$group]})
+]]></content>
+	<tabTrigger>box-flex-group</tabTrigger>
+	<description>CompassMixin - box-flex-group()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

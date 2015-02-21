@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-shadow(${1:\$shadow...})
+]]></content>
+	<tabTrigger>box-shadow</tabTrigger>
+	<description>CompassMixin - box-shadow()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

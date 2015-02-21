@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-radius(${1:[\$radius]}, ${2:[\$vertical-radius]})
+]]></content>
+	<tabTrigger>border-radius</tabTrigger>
+	<description>CompassMixin - border-radius()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

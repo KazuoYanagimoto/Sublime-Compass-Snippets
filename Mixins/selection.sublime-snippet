@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+selection(${1:[\$background-color]}, ${2:[\$color]})
+]]></content>
+	<tabTrigger>selection</tabTrigger>
+	<description>CompassMixin - selection()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

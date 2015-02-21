@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float(${1:[\$side]})
+]]></content>
+	<tabTrigger>float</tabTrigger>
+	<description>CompassMixin - float()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

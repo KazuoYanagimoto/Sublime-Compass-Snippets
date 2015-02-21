@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+justify-content(${1:\$justify-content})
+]]></content>
+	<tabTrigger>justify-content</tabTrigger>
+	<description>CompassMixin - justify-content()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

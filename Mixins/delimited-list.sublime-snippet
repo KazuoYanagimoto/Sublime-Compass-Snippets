@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+delimited-list(${1:[\$separator]})
+]]></content>
+	<tabTrigger>delimited-list</tabTrigger>
+	<description>CompassMixin - delimited-list()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

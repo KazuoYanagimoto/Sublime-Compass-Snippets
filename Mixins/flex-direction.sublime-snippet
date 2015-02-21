@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-direction(${1:\$direction})
+]]></content>
+	<tabTrigger>flex-direction</tabTrigger>
+	<description>CompassMixin - flex-direction()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

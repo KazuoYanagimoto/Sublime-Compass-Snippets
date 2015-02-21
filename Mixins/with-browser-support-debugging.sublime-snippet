@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+with-browser-support-debugging()
+]]></content>
+	<tabTrigger>with-browser-support-debugging</tabTrigger>
+	<description>CompassMixin - with-browser-support-debugging()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

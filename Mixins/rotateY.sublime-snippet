@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rotateY(${1:[\$rotate]}, ${2:[\$perspective]})
+]]></content>
+	<tabTrigger>rotateY</tabTrigger>
+	<description>CompassMixin - rotateY()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

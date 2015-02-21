@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-grid-background(${1:[\$total]}, ${2:[\$column]}, ${3:[\$gutter]}, ${4:[\$offset]}, ${5:[\$column-color]}, ${6:[\$gutter-color]}, ${7:[\$force-fluid]})
+]]></content>
+	<tabTrigger>column-grid-background</tabTrigger>
+	<description>CompassMixin - column-grid-background()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

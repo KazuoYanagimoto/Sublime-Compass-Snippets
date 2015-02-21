@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+trailer(${1:[\$lines]}, ${2:[\$font-size]}, ${3:[\$property]})
+]]></content>
+	<tabTrigger>trailer</tabTrigger>
+	<description>CompassMixin - trailer()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

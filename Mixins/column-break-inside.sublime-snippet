@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-break-inside(${1:[\$value]})
+]]></content>
+	<tabTrigger>column-break-inside</tabTrigger>
+	<description>CompassMixin - column-break-inside()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

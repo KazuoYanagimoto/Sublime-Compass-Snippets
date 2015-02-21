@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+float-left()
+]]></content>
+	<tabTrigger>float-left</tabTrigger>
+	<description>CompassMixin - float-left()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

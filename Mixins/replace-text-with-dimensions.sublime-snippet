@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+replace-text-with-dimensions(${1:\$img}, ${2:[\$x]}, ${3:[\$y]}, ${4:[\$inline]})
+]]></content>
+	<tabTrigger>replace-text-with-dimensions</tabTrigger>
+	<description>CompassMixin - replace-text-with-dimensions()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hyphenation()
+]]></content>
+	<tabTrigger>hyphenation</tabTrigger>
+	<description>CompassMixin - hyphenation()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

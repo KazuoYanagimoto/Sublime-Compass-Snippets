@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+establish-baseline(${1:[\$font-size]})
+]]></content>
+	<tabTrigger>establish-baseline</tabTrigger>
+	<description>CompassMixin - establish-baseline()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+alternating-rows-and-columns(${1:\$even-row-color}, ${2:\$odd-row-color}, ${3:\$dark-intersection}, ${4:[\$header-color]}, ${5:[\$footer-color]})
+]]></content>
+	<tabTrigger>alternating-rows-and-columns</tabTrigger>
+	<description>CompassMixin - alternating-rows-and-columns()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+margin-leader(${1:[\$lines]}, ${2:[\$font-size]})
+]]></content>
+	<tabTrigger>margin-leader</tabTrigger>
+	<description>CompassMixin - margin-leader()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

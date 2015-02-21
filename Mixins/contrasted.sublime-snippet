@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+contrasted(${1:\$background-color}, ${2:[\$dark]}, ${3:[\$light]}, ${4:[\$threshold]})
+]]></content>
+	<tabTrigger>contrasted</tabTrigger>
+	<description>CompassMixin - contrasted()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

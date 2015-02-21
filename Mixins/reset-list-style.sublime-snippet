@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-list-style()
+]]></content>
+	<tabTrigger>reset-list-style</tabTrigger>
+	<description>CompassMixin - reset-list-style()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

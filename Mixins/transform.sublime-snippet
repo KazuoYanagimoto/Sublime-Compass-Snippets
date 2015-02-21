@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transform(${1:\$transform}, ${2:[\$only3d]})
+]]></content>
+	<tabTrigger>transform</tabTrigger>
+	<description>CompassMixin - transform()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

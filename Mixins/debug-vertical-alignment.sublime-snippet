@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+debug-vertical-alignment(${1:[\$img]})
+]]></content>
+	<tabTrigger>debug-vertical-alignment</tabTrigger>
+	<description>CompassMixin - debug-vertical-alignment()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

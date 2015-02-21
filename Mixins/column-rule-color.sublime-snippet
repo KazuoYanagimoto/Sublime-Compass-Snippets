@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-rule-color(${1:\$color})
+]]></content>
+	<tabTrigger>column-rule-color</tabTrigger>
+	<description>CompassMixin - column-rule-color()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

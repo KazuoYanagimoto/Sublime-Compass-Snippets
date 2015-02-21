@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+horizontal-list(${1:[\$padding]}, ${2:[\$direction]})
+]]></content>
+	<tabTrigger>horizontal-list</tabTrigger>
+	<description>CompassMixin - horizontal-list()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

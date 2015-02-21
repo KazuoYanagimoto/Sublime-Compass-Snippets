@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+perspective(${1:\$p})
+]]></content>
+	<tabTrigger>perspective</tabTrigger>
+	<description>CompassMixin - perspective()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+single-box-shadow(${1:[\$hoff]}, ${2:[\$voff]}, ${3:[\$blur]}, ${4:[\$spread]}, ${5:[\$color]}, ${6:[\$inset]})
+]]></content>
+	<tabTrigger>single-box-shadow</tabTrigger>
+	<description>CompassMixin - single-box-shadow()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

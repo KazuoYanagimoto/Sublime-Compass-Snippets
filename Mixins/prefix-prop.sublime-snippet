@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prefix-prop(${1:\$property}, ${2:\$value}, ${3:[\$prefix]})
+]]></content>
+	<tabTrigger>prefix-prop</tabTrigger>
+	<description>CompassMixin - prefix-prop()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

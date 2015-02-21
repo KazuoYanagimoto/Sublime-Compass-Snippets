@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rhythm(${1:[\$leader]}, ${2:[\$padding-leader]}, ${3:[\$padding-trailer]}, ${4:[\$trailer]}, ${5:[\$font-size]})
+]]></content>
+	<tabTrigger>rhythm</tabTrigger>
+	<description>CompassMixin - rhythm()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

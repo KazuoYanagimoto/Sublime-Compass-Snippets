@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display-flex(${1:[\$display]})
+]]></content>
+	<tabTrigger>display-flex</tabTrigger>
+	<description>CompassMixin - display-flex()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

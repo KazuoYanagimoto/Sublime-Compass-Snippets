@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+has-layout-zoom()
+]]></content>
+	<tabTrigger>has-layout-zoom</tabTrigger>
+	<description>CompassMixin - has-layout-zoom()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

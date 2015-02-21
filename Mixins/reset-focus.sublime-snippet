@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-focus()
+]]></content>
+	<tabTrigger>reset-focus</tabTrigger>
+	<description>CompassMixin - reset-focus()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

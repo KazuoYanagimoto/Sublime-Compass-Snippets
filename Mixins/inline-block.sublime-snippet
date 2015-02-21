@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+inline-block(${1:[\$alignment]}, ${2:[\$ie-alignment]})
+]]></content>
+	<tabTrigger>inline-block</tabTrigger>
+	<description>CompassMixin - inline-block()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

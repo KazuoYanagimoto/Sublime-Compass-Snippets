@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+each-gradient-prefix(${1:\$values})
+]]></content>
+	<tabTrigger>each-gradient-prefix</tabTrigger>
+	<description>CompassMixin - each-gradient-prefix()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

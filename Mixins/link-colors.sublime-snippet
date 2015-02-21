@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+link-colors(${1:\$normal}, ${2:[\$hover]}, ${3:[\$active]}, ${4:[\$visited]}, ${5:[\$focus]})
+]]></content>
+	<tabTrigger>link-colors</tabTrigger>
+	<description>CompassMixin - link-colors()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

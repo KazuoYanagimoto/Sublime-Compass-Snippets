@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite-column(${1:\$col}, ${2:[\$width]}, ${3:[\$margin]})
+]]></content>
+	<tabTrigger>sprite-column</tabTrigger>
+	<description>CompassMixin - sprite-column()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

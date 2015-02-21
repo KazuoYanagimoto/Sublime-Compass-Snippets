@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-clip(${1:\$clip...})
+]]></content>
+	<tabTrigger>background-clip</tabTrigger>
+	<description>CompassMixin - background-clip()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

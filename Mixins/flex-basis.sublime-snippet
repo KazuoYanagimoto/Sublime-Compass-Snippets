@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-basis(${1:\$flex-basis})
+]]></content>
+	<tabTrigger>flex-basis</tabTrigger>
+	<description>CompassMixin - flex-basis()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

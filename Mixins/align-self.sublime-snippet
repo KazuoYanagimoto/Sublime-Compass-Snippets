@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-self(${1:\$align-self})
+]]></content>
+	<tabTrigger>align-self</tabTrigger>
+	<description>CompassMixin - align-self()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

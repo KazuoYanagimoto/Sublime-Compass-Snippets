@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stretch(${1:[\$offset-top]}, ${2:[\$offset-right]}, ${3:[\$offset-bottom]}, ${4:[\$offset-left]})
+]]></content>
+	<tabTrigger>stretch</tabTrigger>
+	<description>CompassMixin - stretch()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

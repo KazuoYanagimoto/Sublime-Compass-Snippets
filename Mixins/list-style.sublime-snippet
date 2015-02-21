@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+list-style(${1:\$value})
+]]></content>
+	<tabTrigger>list-style</tabTrigger>
+	<description>CompassMixin - list-style()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

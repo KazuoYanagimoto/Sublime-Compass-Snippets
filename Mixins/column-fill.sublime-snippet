@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-fill(${1:[\$fill]})
+]]></content>
+	<tabTrigger>column-fill</tabTrigger>
+	<description>CompassMixin - column-fill()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

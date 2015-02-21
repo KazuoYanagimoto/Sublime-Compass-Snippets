@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+squish-text()
+]]></content>
+	<tabTrigger>squish-text</tabTrigger>
+	<description>CompassMixin - squish-text()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

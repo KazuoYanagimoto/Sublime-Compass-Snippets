@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+bang-hack(${1:\$property}, ${2:\$value}, ${3:\$ie6-value})
+]]></content>
+	<tabTrigger>bang-hack</tabTrigger>
+	<description>CompassMixin - bang-hack()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

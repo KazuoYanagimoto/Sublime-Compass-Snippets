@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-body()
+]]></content>
+	<tabTrigger>reset-body</tabTrigger>
+	<description>CompassMixin - reset-body()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

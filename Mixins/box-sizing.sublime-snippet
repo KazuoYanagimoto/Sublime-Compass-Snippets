@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-sizing(${1:[\$box-model]})
+]]></content>
+	<tabTrigger>box-sizing</tabTrigger>
+	<description>CompassMixin - box-sizing()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

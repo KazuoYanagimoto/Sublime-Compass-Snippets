@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-span(${1:[\$span]})
+]]></content>
+	<tabTrigger>column-span</tabTrigger>
+	<description>CompassMixin - column-span()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

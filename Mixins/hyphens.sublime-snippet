@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hyphens(${1:[\$value]})
+]]></content>
+	<tabTrigger>hyphens</tabTrigger>
+	<description>CompassMixin - hyphens()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

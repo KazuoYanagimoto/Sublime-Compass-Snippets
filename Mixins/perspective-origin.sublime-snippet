@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+perspective-origin(${1:[\$origin]})
+]]></content>
+	<tabTrigger>perspective-origin</tabTrigger>
+	<description>CompassMixin - perspective-origin()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

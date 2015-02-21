@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-play-state(${1:\$state...})
+]]></content>
+	<tabTrigger>animation-play-state</tabTrigger>
+	<description>CompassMixin - animation-play-state()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

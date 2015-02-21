@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transparent()
+]]></content>
+	<tabTrigger>transparent</tabTrigger>
+	<description>CompassMixin - transparent()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

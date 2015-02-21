@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-before(${1:[\$value]})
+]]></content>
+	<tabTrigger>break-before</tabTrigger>
+	<description>CompassMixin - break-before()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

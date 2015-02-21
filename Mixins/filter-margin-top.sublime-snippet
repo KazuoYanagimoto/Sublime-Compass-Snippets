@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter-margin-top(${1:\$width})
+]]></content>
+	<tabTrigger>filter-margin-top</tabTrigger>
+	<description>CompassMixin - filter-margin-top()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

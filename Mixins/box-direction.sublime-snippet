@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-direction(${1:[\$direction]})
+]]></content>
+	<tabTrigger>box-direction</tabTrigger>
+	<description>CompassMixin - box-direction()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+adjust-font-size-to(${1:\$to-size}, ${2:[\$lines]}, ${3:[\$from-size]})
+]]></content>
+	<tabTrigger>adjust-font-size-to</tabTrigger>
+	<description>CompassMixin - adjust-font-size-to()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

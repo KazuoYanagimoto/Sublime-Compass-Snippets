@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+inner-table-borders(${1:[\$width]}, ${2:[\$color]})
+]]></content>
+	<tabTrigger>inner-table-borders</tabTrigger>
+	<description>CompassMixin - inner-table-borders()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

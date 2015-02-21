@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+translate3d(${1:[\$translate-x]}, ${2:[\$translate-y]}, ${3:[\$translate-z]}, ${4:[\$perspective]})
+]]></content>
+	<tabTrigger>translate3d</tabTrigger>
+	<description>CompassMixin - translate3d()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

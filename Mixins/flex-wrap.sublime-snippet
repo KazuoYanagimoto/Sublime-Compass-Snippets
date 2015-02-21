@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-wrap(${1:\$wrap})
+]]></content>
+	<tabTrigger>flex-wrap</tabTrigger>
+	<description>CompassMixin - flex-wrap()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

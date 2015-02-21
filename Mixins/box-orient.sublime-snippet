@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-orient(${1:[\$orientation]})
+]]></content>
+	<tabTrigger>box-orient</tabTrigger>
+	<description>CompassMixin - box-orient()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

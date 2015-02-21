@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+adjust-leading-to(${1:\$lines}, ${2:[\$font-size]})
+]]></content>
+	<tabTrigger>adjust-leading-to</tabTrigger>
+	<description>CompassMixin - adjust-leading-to()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

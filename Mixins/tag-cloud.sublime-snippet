@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+tag-cloud(${1:[\$base-size]})
+]]></content>
+	<tabTrigger>tag-cloud</tabTrigger>
+	<description>CompassMixin - tag-cloud()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

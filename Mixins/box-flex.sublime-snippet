@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-flex(${1:[\$flex]})
+]]></content>
+	<tabTrigger>box-flex</tabTrigger>
+	<description>CompassMixin - box-flex()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

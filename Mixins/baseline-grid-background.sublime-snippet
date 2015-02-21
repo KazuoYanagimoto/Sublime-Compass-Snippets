@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+baseline-grid-background(${1:[\$baseline]}, ${2:[\$color]})
+]]></content>
+	<tabTrigger>baseline-grid-background</tabTrigger>
+	<description>CompassMixin - baseline-grid-background()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

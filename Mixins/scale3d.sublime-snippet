@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+scale3d(${1:[\$scale-x]}, ${2:[\$scale-y]}, ${3:[\$scale-z]}, ${4:[\$perspective]})
+]]></content>
+	<tabTrigger>scale3d</tabTrigger>
+	<description>CompassMixin - scale3d()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

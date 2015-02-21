@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+no-bullets()
+]]></content>
+	<tabTrigger>no-bullets</tabTrigger>
+	<description>CompassMixin - no-bullets()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

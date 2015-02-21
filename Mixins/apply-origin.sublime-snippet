@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+apply-origin(${1:\$origin}, ${2:\$only3d})
+]]></content>
+	<tabTrigger>apply-origin</tabTrigger>
+	<description>CompassMixin - apply-origin()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

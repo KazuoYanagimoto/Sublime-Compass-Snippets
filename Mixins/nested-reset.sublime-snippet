@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+nested-reset()
+]]></content>
+	<tabTrigger>nested-reset</tabTrigger>
+	<description>CompassMixin - nested-reset()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

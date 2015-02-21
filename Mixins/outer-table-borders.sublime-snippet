@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+outer-table-borders(${1:[\$width]}, ${2:[\$color]})
+]]></content>
+	<tabTrigger>outer-table-borders</tabTrigger>
+	<description>CompassMixin - outer-table-borders()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

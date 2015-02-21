@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-rule-style(${1:\$style})
+]]></content>
+	<tabTrigger>column-rule-style</tabTrigger>
+	<description>CompassMixin - column-rule-style()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

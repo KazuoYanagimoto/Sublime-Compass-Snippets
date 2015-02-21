@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display-box($1)
+]]></content>
+	<tabTrigger>display-box</tabTrigger>
+	<description>CompassMixin - display-box()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

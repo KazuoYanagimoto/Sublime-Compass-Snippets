@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-origin(${1:\$origin...})
+]]></content>
+	<tabTrigger>background-origin</tabTrigger>
+	<description>CompassMixin - background-origin()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

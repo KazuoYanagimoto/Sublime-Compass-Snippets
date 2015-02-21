@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+legacy-pie-clearfix()
+]]></content>
+	<tabTrigger>legacy-pie-clearfix</tabTrigger>
+	<description>CompassMixin - legacy-pie-clearfix()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

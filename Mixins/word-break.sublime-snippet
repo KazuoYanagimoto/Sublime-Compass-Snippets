@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+word-break(${1:[\$value]})
+]]></content>
+	<tabTrigger>word-break</tabTrigger>
+	<description>CompassMixin - word-break()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

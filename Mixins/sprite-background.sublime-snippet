@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite-background(${1:\$img}, ${2:[\$width]}, ${3:[\$height]})
+]]></content>
+	<tabTrigger>sprite-background</tabTrigger>
+	<description>CompassMixin - sprite-background()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

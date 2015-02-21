@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-quotation()
+]]></content>
+	<tabTrigger>reset-quotation</tabTrigger>
+	<description>CompassMixin - reset-quotation()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

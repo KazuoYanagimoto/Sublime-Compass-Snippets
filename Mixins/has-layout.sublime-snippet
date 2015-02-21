@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+has-layout(${1:[\$approach]})
+]]></content>
+	<tabTrigger>has-layout</tabTrigger>
+	<description>CompassMixin - has-layout()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

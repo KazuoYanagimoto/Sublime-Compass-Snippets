@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+simple-transform(${1:[\$scale]}, ${2:[\$rotate]}, ${3:[\$trans-x]}, ${4:[\$trans-y]}, ${5:[\$skew-x]}, ${6:[\$skew-y]}, ${7:[\$origin-x]}, ${8:[\$origin-y]})
+]]></content>
+	<tabTrigger>simple-transform</tabTrigger>
+	<description>CompassMixin - simple-transform()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+table-scaffolding()
+]]></content>
+	<tabTrigger>table-scaffolding</tabTrigger>
+	<description>CompassMixin - table-scaffolding()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

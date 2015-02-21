@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite(${1:\$map}, ${2:\$sprite}, ${3:[\$dimensions]}, ${4:[\$offset-x]}, ${5:[\$offset-y]}, ${6:[\$use-percentages]}, ${7:[\$use-magic-selectors]}, ${8:[\$separator]})
+]]></content>
+	<tabTrigger>sprite</tabTrigger>
+	<description>CompassMixin - sprite()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-display(${1:[\$selector]}, ${2:[\$important]})
+]]></content>
+	<tabTrigger>reset-display</tabTrigger>
+	<description>CompassMixin - reset-display()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

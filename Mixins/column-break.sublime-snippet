@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+column-break(${1:[\$type]}, ${2:[\$value]})
+]]></content>
+	<tabTrigger>column-break</tabTrigger>
+	<description>CompassMixin - column-break()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

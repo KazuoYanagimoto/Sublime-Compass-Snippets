@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transform-style(${1:[\$style]})
+]]></content>
+	<tabTrigger>transform-style</tabTrigger>
+	<description>CompassMixin - transform-style()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

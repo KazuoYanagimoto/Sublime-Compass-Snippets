@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+color-interpolation-filters(${1:\$value})
+]]></content>
+	<tabTrigger>color-interpolation-filters</tabTrigger>
+	<description>CompassMixin - color-interpolation-filters()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

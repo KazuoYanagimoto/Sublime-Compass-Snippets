@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-table()
+]]></content>
+	<tabTrigger>reset-table</tabTrigger>
+	<description>CompassMixin - reset-table()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

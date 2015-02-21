@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-timing-function(${1:\$function...})
+]]></content>
+	<tabTrigger>animation-timing-function</tabTrigger>
+	<description>CompassMixin - animation-timing-function()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

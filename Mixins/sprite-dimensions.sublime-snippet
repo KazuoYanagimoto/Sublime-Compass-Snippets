@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite-dimensions(${1:\$map}, ${2:\$sprite})
+]]></content>
+	<tabTrigger>sprite-dimensions</tabTrigger>
+	<description>CompassMixin - sprite-dimensions()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

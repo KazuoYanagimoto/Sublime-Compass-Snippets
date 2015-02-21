@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-font()
+]]></content>
+	<tabTrigger>reset-font</tabTrigger>
+	<description>CompassMixin - reset-font()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

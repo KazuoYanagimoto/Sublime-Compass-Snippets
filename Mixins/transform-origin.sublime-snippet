@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transform-origin(${1:[\$origin-x]}, ${2:[\$origin-y]}, ${3:[\$origin-z]}, ${4:[\$only3d]})
+]]></content>
+	<tabTrigger>transform-origin</tabTrigger>
+	<description>CompassMixin - transform-origin()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

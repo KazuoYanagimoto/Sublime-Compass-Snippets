@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+opacity(${1:\$opacity})
+]]></content>
+	<tabTrigger>opacity</tabTrigger>
+	<description>CompassMixin - opacity()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-corner-radius(${1:\$vert}, ${2:\$horz}, ${3:[\$radius]})
+]]></content>
+	<tabTrigger>border-corner-radius</tabTrigger>
+	<description>CompassMixin - border-corner-radius()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

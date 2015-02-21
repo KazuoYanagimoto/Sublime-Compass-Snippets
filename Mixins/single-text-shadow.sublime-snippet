@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+single-text-shadow(${1:[\$hoff]}, ${2:[\$voff]}, ${3:[\$blur]}, ${4:[\$spread]}, ${5:[\$color]})
+]]></content>
+	<tabTrigger>single-text-shadow</tabTrigger>
+	<description>CompassMixin - single-text-shadow()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

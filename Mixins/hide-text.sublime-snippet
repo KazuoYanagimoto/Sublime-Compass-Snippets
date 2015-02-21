@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+hide-text(${1:[\$direction]})
+]]></content>
+	<tabTrigger>hide-text</tabTrigger>
+	<description>CompassMixin - hide-text()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

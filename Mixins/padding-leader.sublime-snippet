@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding-leader(${1:[\$lines]}, ${2:[\$font-size]})
+]]></content>
+	<tabTrigger>padding-leader</tabTrigger>
+	<description>CompassMixin - padding-leader()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

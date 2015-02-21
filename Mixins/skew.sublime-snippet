@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+skew(${1:[\$skew-x]}, ${2:[\$skew-y]}, ${3:[\$only3d]})
+]]></content>
+	<tabTrigger>skew</tabTrigger>
+	<description>CompassMixin - skew()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+force-wrap()
+]]></content>
+	<tabTrigger>force-wrap</tabTrigger>
+	<description>CompassMixin - force-wrap()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

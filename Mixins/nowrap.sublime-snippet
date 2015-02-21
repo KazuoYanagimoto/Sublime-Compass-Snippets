@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+nowrap()
+]]></content>
+	<tabTrigger>nowrap</tabTrigger>
+	<description>CompassMixin - nowrap()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

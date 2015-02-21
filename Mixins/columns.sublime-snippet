@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+columns(${1:\$width-and-count})
+]]></content>
+	<tabTrigger>columns</tabTrigger>
+	<description>CompassMixin - columns()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

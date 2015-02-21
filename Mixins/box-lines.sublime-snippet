@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-lines(${1:[\$lines]})
+]]></content>
+	<tabTrigger>box-lines</tabTrigger>
+	<description>CompassMixin - box-lines()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

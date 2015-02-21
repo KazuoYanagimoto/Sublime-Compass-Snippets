@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transform3d(${1:\$trans})
+]]></content>
+	<tabTrigger>transform3d</tabTrigger>
+	<description>CompassMixin - transform3d()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

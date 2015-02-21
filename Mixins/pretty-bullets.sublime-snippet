@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+pretty-bullets(${1:\$bullet-icon}, ${2:[\$width]}, ${3:[\$height]}, ${4:[\$line-height]}, ${5:[\$padding]})
+]]></content>
+	<tabTrigger>pretty-bullets</tabTrigger>
+	<description>CompassMixin - pretty-bullets()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

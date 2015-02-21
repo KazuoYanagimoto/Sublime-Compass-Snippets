@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+margin-trailer(${1:[\$lines]}, ${2:[\$font-size]})
+]]></content>
+	<tabTrigger>margin-trailer</tabTrigger>
+	<description>CompassMixin - margin-trailer()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

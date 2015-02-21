@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+inline-list()
+]]></content>
+	<tabTrigger>inline-list</tabTrigger>
+	<description>CompassMixin - inline-list()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition()
+]]></content>
+	<tabTrigger>transition</tabTrigger>
+	<description>CompassMixin - transition()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

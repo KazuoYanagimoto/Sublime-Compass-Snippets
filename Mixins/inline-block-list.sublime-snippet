@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+inline-block-list(${1:[\$padding]})
+]]></content>
+	<tabTrigger>inline-block-list</tabTrigger>
+	<description>CompassMixin - inline-block-list()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

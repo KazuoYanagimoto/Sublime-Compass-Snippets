@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-float(${1:[\$display]})
+]]></content>
+	<tabTrigger>reset-float</tabTrigger>
+	<description>CompassMixin - reset-float()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

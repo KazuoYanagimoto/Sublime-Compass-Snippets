@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rhythm-margins(${1:[\$leader]}, ${2:[\$trailer]}, ${3:[\$font-size]})
+]]></content>
+	<tabTrigger>rhythm-margins</tabTrigger>
+	<description>CompassMixin - rhythm-margins()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

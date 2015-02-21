@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+leader(${1:[\$lines]}, ${2:[\$font-size]}, ${3:[\$property]})
+]]></content>
+	<tabTrigger>leader</tabTrigger>
+	<description>CompassMixin - leader()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

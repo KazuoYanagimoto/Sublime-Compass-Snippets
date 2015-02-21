@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+keyframes(${1:\$name})
+]]></content>
+	<tabTrigger>keyframes</tabTrigger>
+	<description>CompassMixin - keyframes()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+box-pack(${1:[\$pack]})
+]]></content>
+	<tabTrigger>box-pack</tabTrigger>
+	<description>CompassMixin - box-pack()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

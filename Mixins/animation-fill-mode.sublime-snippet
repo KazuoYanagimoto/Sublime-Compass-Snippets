@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-fill-mode(${1:\$mode...})
+]]></content>
+	<tabTrigger>animation-fill-mode</tabTrigger>
+	<description>CompassMixin - animation-fill-mode()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

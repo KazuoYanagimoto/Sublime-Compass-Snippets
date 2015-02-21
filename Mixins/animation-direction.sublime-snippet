@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-direction(${1:\$direction...})
+]]></content>
+	<tabTrigger>animation-direction</tabTrigger>
+	<description>CompassMixin - animation-direction()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

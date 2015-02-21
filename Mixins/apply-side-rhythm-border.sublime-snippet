@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+apply-side-rhythm-border(${1:\$side}, ${2:[\$width]}, ${3:[\$lines]}, ${4:[\$font-size]}, ${5:[\$border-style]})
+]]></content>
+	<tabTrigger>apply-side-rhythm-border</tabTrigger>
+	<description>CompassMixin - apply-side-rhythm-border()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

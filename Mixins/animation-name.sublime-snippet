@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-name(${1:\$name...})
+]]></content>
+	<tabTrigger>animation-name</tabTrigger>
+	<description>CompassMixin - animation-name()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

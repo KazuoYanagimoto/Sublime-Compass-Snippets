@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prefixed-properties(${1:\$capability}, ${2:\$threshold}, ${3:\$properties}, ${4:[\$capability-options]})
+]]></content>
+	<tabTrigger>prefixed-properties</tabTrigger>
+	<description>CompassMixin - prefixed-properties()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

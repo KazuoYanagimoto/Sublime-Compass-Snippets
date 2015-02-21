@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+create-transform(${1:[\$perspective]}, ${2:[\$scale-x]}, ${3:[\$scale-y]}, ${4:[\$scale-z]}, ${5:[\$rotate-x]}, ${6:[\$rotate-y]}, ${7:[\$rotate-z]}, ${8:[\$rotate3d]}, ${9:[\$trans-x]}, ${10:[\$trans-y]}, ${11:[\$trans-z]}, ${12:[\$skew-x]}, ${13:[\$skew-y]}, ${14:[\$origin-x]}, ${15:[\$origin-y]}, ${16:[\$origin-z]}, ${17:[\$only3d]})
+]]></content>
+	<tabTrigger>create-transform</tabTrigger>
+	<description>CompassMixin - create-transform()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

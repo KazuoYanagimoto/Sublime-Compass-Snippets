@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-flow(${1:\$flow})
+]]></content>
+	<tabTrigger>flex-flow</tabTrigger>
+	<description>CompassMixin - flex-flow()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

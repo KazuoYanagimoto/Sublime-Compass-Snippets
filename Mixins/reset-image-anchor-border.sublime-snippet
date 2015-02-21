@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+reset-image-anchor-border()
+]]></content>
+	<tabTrigger>reset-image-anchor-border</tabTrigger>
+	<description>CompassMixin - reset-image-anchor-border()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

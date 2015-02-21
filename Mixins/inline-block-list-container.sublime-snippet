@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+inline-block-list-container()
+]]></content>
+	<tabTrigger>inline-block-list-container</tabTrigger>
+	<description>CompassMixin - inline-block-list-container()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

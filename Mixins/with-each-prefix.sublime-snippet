@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+with-each-prefix(${1:\$capability}, ${2:\$threshold}, ${3:[\$capability-options]})
+]]></content>
+	<tabTrigger>with-each-prefix</tabTrigger>
+	<description>CompassMixin - with-each-prefix()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+text-shadow()
+]]></content>
+	<tabTrigger>text-shadow</tabTrigger>
+	<description>CompassMixin - text-shadow()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

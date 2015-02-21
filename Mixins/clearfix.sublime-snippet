@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clearfix($1)
+]]></content>
+	<tabTrigger>clearfix</tabTrigger>
+	<description>CompassMixin - clearfix()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

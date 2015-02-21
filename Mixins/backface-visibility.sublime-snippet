@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+backface-visibility(${1:[\$visibility]})
+]]></content>
+	<tabTrigger>backface-visibility</tabTrigger>
+	<description>CompassMixin - backface-visibility()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stretch-y(${1:[\$offset-top]}, ${2:[\$offset-bottom]})
+]]></content>
+	<tabTrigger>stretch-y</tabTrigger>
+	<description>CompassMixin - stretch-y()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

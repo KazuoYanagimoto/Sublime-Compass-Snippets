@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition-duration()
+]]></content>
+	<tabTrigger>transition-duration</tabTrigger>
+	<description>CompassMixin - transition-duration()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

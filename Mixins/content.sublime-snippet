@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+content(${1:\$value})
+]]></content>
+	<tabTrigger>content</tabTrigger>
+	<description>CompassMixin - content()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

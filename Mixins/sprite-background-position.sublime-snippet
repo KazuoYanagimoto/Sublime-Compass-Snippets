@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite-background-position(${1:\$map}, ${2:\$sprite}, ${3:[\$offset-x]}, ${4:[\$offset-y]}, ${5:[\$use-percentages]})
+]]></content>
+	<tabTrigger>sprite-background-position</tabTrigger>
+	<description>CompassMixin - sprite-background-position()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

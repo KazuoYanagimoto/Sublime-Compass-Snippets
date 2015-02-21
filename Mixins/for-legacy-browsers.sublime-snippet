@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+for-legacy-browsers(${1:\$browsers}, ${2:[\$threshold]})
+]]></content>
+	<tabTrigger>for-legacy-browsers</tabTrigger>
+	<description>CompassMixin - for-legacy-browsers()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

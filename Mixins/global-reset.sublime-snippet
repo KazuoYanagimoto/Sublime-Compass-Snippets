@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+global-reset()
+]]></content>
+	<tabTrigger>global-reset</tabTrigger>
+	<description>CompassMixin - global-reset()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

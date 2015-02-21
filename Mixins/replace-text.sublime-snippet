@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+replace-text(${1:\$img}, ${2:[\$x]}, ${3:[\$y]})
+]]></content>
+	<tabTrigger>replace-text</tabTrigger>
+	<description>CompassMixin - replace-text()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

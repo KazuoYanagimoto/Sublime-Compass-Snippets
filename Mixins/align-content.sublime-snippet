@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+align-content(${1:\$align-content})
+]]></content>
+	<tabTrigger>align-content</tabTrigger>
+	<description>CompassMixin - align-content()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+user-select(${1:\$select})
+]]></content>
+	<tabTrigger>user-select</tabTrigger>
+	<description>CompassMixin - user-select()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

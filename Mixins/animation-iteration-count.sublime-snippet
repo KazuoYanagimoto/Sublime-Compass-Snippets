@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-iteration-count(${1:\$count...})
+]]></content>
+	<tabTrigger>animation-iteration-count</tabTrigger>
+	<description>CompassMixin - animation-iteration-count()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

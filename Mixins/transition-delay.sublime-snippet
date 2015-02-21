@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition-delay()
+]]></content>
+	<tabTrigger>transition-delay</tabTrigger>
+	<description>CompassMixin - transition-delay()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

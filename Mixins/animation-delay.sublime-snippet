@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-delay(${1:\$delay...})
+]]></content>
+	<tabTrigger>animation-delay</tabTrigger>
+	<description>CompassMixin - animation-delay()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

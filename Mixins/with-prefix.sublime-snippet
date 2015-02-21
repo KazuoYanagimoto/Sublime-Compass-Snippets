@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+with-prefix(${1:\$prefix})
+]]></content>
+	<tabTrigger>with-prefix</tabTrigger>
+	<description>CompassMixin - with-prefix()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

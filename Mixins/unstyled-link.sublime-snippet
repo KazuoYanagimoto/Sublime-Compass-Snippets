@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unstyled-link()
+]]></content>
+	<tabTrigger>unstyled-link</tabTrigger>
+	<description>CompassMixin - unstyled-link()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+input-placeholder()
+]]></content>
+	<tabTrigger>input-placeholder</tabTrigger>
+	<description>CompassMixin - input-placeholder()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

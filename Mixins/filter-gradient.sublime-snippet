@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter-gradient(${1:\$start-color}, ${2:\$end-color}, ${3:[\$orientation]})
+]]></content>
+	<tabTrigger>filter-gradient</tabTrigger>
+	<description>CompassMixin - filter-gradient()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

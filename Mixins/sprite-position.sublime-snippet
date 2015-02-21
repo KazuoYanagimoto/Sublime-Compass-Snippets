@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite-position(${1:\$col}, ${2:[\$row]}, ${3:[\$width]}, ${4:[\$height]}, ${5:[\$margin]})
+]]></content>
+	<tabTrigger>sprite-position</tabTrigger>
+	<description>CompassMixin - sprite-position()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

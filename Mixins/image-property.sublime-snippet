@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+image-property(${1:\$property})
+]]></content>
+	<tabTrigger>image-property</tabTrigger>
+	<description>CompassMixin - image-property()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

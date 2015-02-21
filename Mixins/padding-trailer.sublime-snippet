@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+padding-trailer(${1:[\$lines]}, ${2:[\$font-size]})
+]]></content>
+	<tabTrigger>padding-trailer</tabTrigger>
+	<description>CompassMixin - padding-trailer()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-image(${1:\$images...})
+]]></content>
+	<tabTrigger>background-image</tabTrigger>
+	<description>CompassMixin - background-image()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

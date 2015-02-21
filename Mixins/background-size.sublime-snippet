@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background-size(${1:\$size...})
+]]></content>
+	<tabTrigger>background-size</tabTrigger>
+	<description>CompassMixin - background-size()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+break-after(${1:[\$value]})
+]]></content>
+	<tabTrigger>break-after</tabTrigger>
+	<description>CompassMixin - break-after()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

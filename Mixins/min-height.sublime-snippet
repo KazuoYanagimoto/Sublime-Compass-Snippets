@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+min-height(${1:\$value})
+]]></content>
+	<tabTrigger>min-height</tabTrigger>
+	<description>CompassMixin - min-height()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

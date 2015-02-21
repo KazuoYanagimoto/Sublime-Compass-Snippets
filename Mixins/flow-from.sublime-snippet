@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flow-from(${1:\$target})
+]]></content>
+	<tabTrigger>flow-from</tabTrigger>
+	<description>CompassMixin - flow-from()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

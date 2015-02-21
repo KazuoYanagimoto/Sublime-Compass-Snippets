@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition-property()
+]]></content>
+	<tabTrigger>transition-property</tabTrigger>
+	<description>CompassMixin - transition-property()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

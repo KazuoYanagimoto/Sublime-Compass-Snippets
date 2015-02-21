@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+filter(${1:\$filters})
+]]></content>
+	<tabTrigger>filter</tabTrigger>
+	<description>CompassMixin - filter()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

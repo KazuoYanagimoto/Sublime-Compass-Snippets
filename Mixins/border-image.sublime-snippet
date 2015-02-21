@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+border-image(${1:\$value})
+]]></content>
+	<tabTrigger>border-image</tabTrigger>
+	<description>CompassMixin - border-image()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

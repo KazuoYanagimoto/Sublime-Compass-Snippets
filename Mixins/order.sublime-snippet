@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+order(${1:\$order})
+]]></content>
+	<tabTrigger>order</tabTrigger>
+	<description>CompassMixin - order()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

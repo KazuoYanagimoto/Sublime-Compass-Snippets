@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+with-browser-ranges(${1:\$capability}, ${2:[\$prefix]})
+]]></content>
+	<tabTrigger>with-browser-ranges</tabTrigger>
+	<description>CompassMixin - with-browser-ranges()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

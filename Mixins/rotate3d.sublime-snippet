@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+rotate3d(${1:[\$vector-x]}, ${2:[\$vector-y]}, ${3:[\$vector-z]}, ${4:[\$rotate]}, ${5:[\$perspective]})
+]]></content>
+	<tabTrigger>rotate3d</tabTrigger>
+	<description>CompassMixin - rotate3d()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

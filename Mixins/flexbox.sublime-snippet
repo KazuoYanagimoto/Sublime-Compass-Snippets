@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flexbox(${1:\$properties}, ${2:[\$version]})
+]]></content>
+	<tabTrigger>flexbox</tabTrigger>
+	<description>CompassMixin - flexbox()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

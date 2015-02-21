@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+font-face(${1:\$name}, ${2:\$font-files}, ${3:[\$eot]}, ${4:[\$weight]}, ${5:[\$style]})
+]]></content>
+	<tabTrigger>font-face</tabTrigger>
+	<description>CompassMixin - font-face()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

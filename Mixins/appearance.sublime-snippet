@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+appearance(${1:\$appearance})
+]]></content>
+	<tabTrigger>appearance</tabTrigger>
+	<description>CompassMixin - appearance()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

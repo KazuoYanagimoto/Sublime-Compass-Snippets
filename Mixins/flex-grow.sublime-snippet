@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+flex-grow(${1:\$flex-grow})
+]]></content>
+	<tabTrigger>flex-grow</tabTrigger>
+	<description>CompassMixin - flex-grow()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

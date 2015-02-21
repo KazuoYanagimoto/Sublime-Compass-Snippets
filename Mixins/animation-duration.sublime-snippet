@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+animation-duration(${1:\$duration...})
+]]></content>
+	<tabTrigger>animation-duration</tabTrigger>
+	<description>CompassMixin - animation-duration()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

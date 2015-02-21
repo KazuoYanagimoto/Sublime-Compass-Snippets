@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+translateY(${1:[\$trans-y]}, ${2:[\$perspective]}, ${3:[\$only3d]})
+]]></content>
+	<tabTrigger>translateY</tabTrigger>
+	<description>CompassMixin - translateY()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

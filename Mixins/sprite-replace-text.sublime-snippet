@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sprite-replace-text(${1:\$map}, ${2:\$sprite}, ${3:[\$dimensions]}, ${4:[\$offset-x]}, ${5:[\$offset-y]})
+]]></content>
+	<tabTrigger>sprite-replace-text</tabTrigger>
+	<description>CompassMixin - sprite-replace-text()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

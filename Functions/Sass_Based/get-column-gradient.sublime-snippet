@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+get-column-gradient(${1:[\$total]}, ${2:[\$column]}, ${3:[\$gutter]}, ${4:[\$offset]}, ${5:[\$column-color]}, ${6:[\$gutter-color]}, ${7:[\$force-fluid]})
+]]></content>
+	<tabTrigger>get-column-gradient</tabTrigger>
+	<description>CompassFunction - get-column-gradient()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

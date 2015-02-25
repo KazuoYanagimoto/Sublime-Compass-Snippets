@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+build-grid-background(${1:[\$total]}, ${2:[\$column]}, ${3:[\$gutter]}, ${4:[\$offset]}, ${5:[\$column-color]}, ${6:[\$gutter-color]})
+]]></content>
+	<tabTrigger>build-grid-background</tabTrigger>
+	<description>CompassFunction - build-grid-background()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

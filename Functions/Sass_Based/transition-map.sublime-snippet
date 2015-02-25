@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+transition-map(${1:\$transition})
+]]></content>
+	<tabTrigger>transition-map</tabTrigger>
+	<description>CompassFunction - transition-map()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

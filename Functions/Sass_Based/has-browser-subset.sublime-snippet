@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+has-browser-subset(${1:\$ranges}, ${2:\$subset-ranges})
+]]></content>
+	<tabTrigger>has-browser-subset</tabTrigger>
+	<description>CompassFunction - has-browser-subset()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

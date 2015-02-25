@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+comma-list(${1:[\$list]})
+]]></content>
+	<tabTrigger>comma-list</tabTrigger>
+	<description>CompassFunction - comma-list()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

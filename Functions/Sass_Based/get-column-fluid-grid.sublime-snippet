@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+get-column-fluid-grid(${1:[\$total]}, ${2:[\$column]}, ${3:[\$gutter]}, ${4:[\$offset]}, ${5:[\$column-color]}, ${6:[\$gutter-color]})
+]]></content>
+	<tabTrigger>get-column-fluid-grid</tabTrigger>
+	<description>CompassFunction - get-column-fluid-grid()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

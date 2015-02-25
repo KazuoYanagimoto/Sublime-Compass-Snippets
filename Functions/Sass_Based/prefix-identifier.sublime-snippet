@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prefix-identifier(${1:\$ident}, ${2:[\$prefix]})
+]]></content>
+	<tabTrigger>prefix-identifier</tabTrigger>
+	<description>CompassFunction - prefix-identifier()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

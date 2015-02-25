@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+display-browser-range(${1:\$browser}, ${2:\$min-version}, ${3:[\$max-version]})
+]]></content>
+	<tabTrigger>display-browser-range</tabTrigger>
+	<description>CompassFunction - display-browser-range()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+get-baseline-gradient(${1:[\$color]})
+]]></content>
+	<tabTrigger>get-baseline-gradient</tabTrigger>
+	<description>CompassFunction - get-baseline-gradient()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

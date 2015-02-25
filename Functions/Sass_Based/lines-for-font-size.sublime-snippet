@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+lines-for-font-size(${1:\$font-size})
+]]></content>
+	<tabTrigger>lines-for-font-size</tabTrigger>
+	<description>CompassFunction - lines-for-font-size()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

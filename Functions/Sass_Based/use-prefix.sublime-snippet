@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+use-prefix(${1:\$prefix}, ${2:\$capability}, ${3:\$threshold}, ${4:[\$capability-options]})
+]]></content>
+	<tabTrigger>use-prefix</tabTrigger>
+	<description>CompassFunction - use-prefix()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

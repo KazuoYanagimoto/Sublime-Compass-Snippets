@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+set-arglist-default(${1:\$arglist}, ${2:\$default})
+]]></content>
+	<tabTrigger>set-arglist-default</tabTrigger>
+	<description>CompassFunction - set-arglist-default()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

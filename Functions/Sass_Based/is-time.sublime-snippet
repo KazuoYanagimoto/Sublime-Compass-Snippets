@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+is-time(${1:\$value})
+]]></content>
+	<tabTrigger>is-time</tabTrigger>
+	<description>CompassFunction - is-time()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

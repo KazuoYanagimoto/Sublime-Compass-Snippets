@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+prefixes-for-capability(${1:\$capability}, ${2:\$threshold}, ${3:[\$capability-options]})
+]]></content>
+	<tabTrigger>prefixes-for-capability</tabTrigger>
+	<description>CompassFunction - prefixes-for-capability()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+support-legacy-browser(${1:\$browser}, ${2:\$min-version}, ${3:[\$max-version]}, ${4:[\$threshold]})
+]]></content>
+	<tabTrigger>support-legacy-browser</tabTrigger>
+	<description>CompassFunction - support-legacy-browser()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

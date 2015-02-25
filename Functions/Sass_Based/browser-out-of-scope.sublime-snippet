@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+browser-out-of-scope(${1:\$browser}, ${2:[\$version]})
+]]></content>
+	<tabTrigger>browser-out-of-scope</tabTrigger>
+	<description>CompassFunction - browser-out-of-scope()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

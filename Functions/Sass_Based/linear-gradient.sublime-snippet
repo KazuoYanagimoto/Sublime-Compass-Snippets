@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+linear-gradient(${1:\$angle})
+]]></content>
+	<tabTrigger>linear-gradient</tabTrigger>
+	<description>CompassFunction - linear-gradient()</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>
